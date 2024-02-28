@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# Hi, I'm Wonyoung!
+# [Programmer](https://github.com/wonyoung-jang)
+## 👨‍💻 Software Development Projects:
+	### Machine Learning
+	### Data Structures and Algorithms Practice
+	### Python
+## 🤳 Connect with me:
 <!--
 **wonyoung-jang/wonyoung-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
