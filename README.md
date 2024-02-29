@@ -10,7 +10,7 @@
 ### C++
 - [Student Record System](https://github.com/wonyoung-jang/Student-Record-System)
 
-### SQL and PostgreSQL
+### SQL, PostgreSQL
 -	[Database Bagel Coffee Store](https://github.com/wonyoung-jang/Database-Bagel-Coffee-Store)
 -	[Database DVD Rental Revenue Insights](https://github.com/wonyoung-jang/Database-DVD-Rental-Revenue-Insights)
 
