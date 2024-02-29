@@ -1,16 +1,24 @@
 # Hi, I'm Wonyoung!
-# [Programmer](https://github.com/wonyoung-jang)
-## 👨‍💻 Software Development Projects:
 
-### Machine Learning
-
-### Data Structures and Algorithms
-
-### Python
-
-### C++
+## Software Development Projects:
 
 ### Java, Maven, Angular, Spring
+- [Retail Inventory Manager](https://github.com/wonyoung-jang/Retail-Inventory-Manager)
+- [Vacation Cart Manager](https://github.com/wonyoung-jang/Vacation-Cart-Manager)
+- [Hotel Reservation Manager](https://github.com/wonyoung-jang/Hotel-Reservation-Manager)
+
+### C++
+- [Student Record System](https://github.com/wonyoung-jang/Student-Record-System)
+
+### SQL and PostgreSQL
+-	[Database Bagel Coffee Store](https://github.com/wonyoung-jang/Database-Bagel-Coffee-Store)
+-	[Database DVD Rental Revenue Insights](https://github.com/wonyoung-jang/Database-DVD-Rental-Revenue-Insights)
+
+### PandoraBots, AIML
+-	[CS Career Recommendation Chatbot](https://github.com/wonyoung-jang/CS-Career-Recommendation-Chatbot)
+
+### Lua, CoppeliaSim
+-	[Disaster Recovery Robot](https://github.com/wonyoung-jang/Disaster-Recovery-Robot)
 
 <!--
 **wonyoung-jang/wonyoung-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
