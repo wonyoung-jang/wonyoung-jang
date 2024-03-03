@@ -1,27 +1,35 @@
-# Hi, I'm Wonyoung!
+# Hi, I'm Wonyoung
 
-## Software Development Projects:
+## Software Development Projects
+
+(Grouped by languages used)
 
 ### Python
-- [Package Delivery Network System](https://github.com/wonyoung-jang/Package-Delivery-Network-System)
 
-### Java, Maven, Angular, Spring
-- [Retail Inventory Manager](https://github.com/wonyoung-jang/Retail-Inventory-Manager)
-- [Vacation Cart Manager](https://github.com/wonyoung-jang/Vacation-Cart-Manager)
-- [Hotel Reservation Manager](https://github.com/wonyoung-jang/Hotel-Reservation-Manager)
+- [Package Delivery Route Optimization](https://github.com/wonyoung-jang/package-delivery-network)
 
 ### C++
-- [Student Record System](https://github.com/wonyoung-jang/Student-Record-System)
 
-### SQL, PostgreSQL
--	[Database Bagel Coffee Store](https://github.com/wonyoung-jang/Database-Bagel-Coffee-Store)
--	[Database DVD Rental Revenue Insights](https://github.com/wonyoung-jang/Database-DVD-Rental-Revenue-Insights)
+- [Student Records System](https://github.com/wonyoung-jang/Student-Record-System)
 
-### PandoraBots, AIML
--	[CS Career Recommendation Chatbot](https://github.com/wonyoung-jang/CS-Career-Recommendation-Chatbot)
+### Java, HTML, CSS
 
-### Lua, CoppeliaSim
--	[Disaster Recovery Robot](https://github.com/wonyoung-jang/Disaster-Recovery-Robot)
+- [Retail Inventory Manager](https://github.com/wonyoung-jang/retail-inventory-manager)
+- [Vacation Cart Manager](https://github.com/wonyoung-jang/vacation-cart-manager)
+- [Hotel Reservation Manager](https://github.com/wonyoung-jang/Hotel-Reservation-Manager)
+
+### AIML
+
+- [CS Career Recommendation Chatbot](https://github.com/wonyoung-jang/cs-career-chatbot)
+
+### Lua
+
+- [Disaster Recovery Robot Simulation](https://github.com/wonyoung-jang/Disaster-Recovery-Robot)
+
+### SQL
+
+- [Bagel Corner & Mister Coffee Database Management](https://github.com/wonyoung-jang/bagel-coffee-stores)
+- [DVD Rental Database Revenue Insights](https://github.com/wonyoung-jang/dvd-rental-revenue)
 
 <!--
 **wonyoung-jang/wonyoung-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
