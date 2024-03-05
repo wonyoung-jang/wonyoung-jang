@@ -2,8 +2,6 @@
 
 ## Software Development Projects
 
-(Grouped by languages used)
-
 ### Python
 
 - [FIRST LEGO League Challenge (FLLC) Q-Learning Scheduler](https://github.com/wonyoung-jang/fllc-qlearning-scheduler)
@@ -15,8 +13,9 @@
 
 - [Student Records System](https://github.com/wonyoung-jang/Student-Record-System)
 
-### Java, HTML, CSS
+### Java, HTML, CSS, Javascript
 
+- [My GitHub Pages Site](https://github.com/wonyoung-jang/wonyoung-jang.github.io)
 - [Retail Inventory Manager](https://github.com/wonyoung-jang/retail-inventory-manager)
 - [Vacation Cart Manager](https://github.com/wonyoung-jang/vacation-cart-manager)
 - [Hotel Reservation Manager](https://github.com/wonyoung-jang/Hotel-Reservation-Manager)
