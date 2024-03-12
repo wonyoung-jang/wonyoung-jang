@@ -1,6 +1,8 @@
 # Hi, I'm Wonyoung
 
-## Projects
+Check out my personal site here:  [wonyoungjang.org]( wonyoungjang.org/ )
+
+## Projects Overview
 
 ### Python
 
@@ -8,10 +10,6 @@
 - [Logseq Markdown Tokenizer](https://github.com/wonyoung-jang/logseq-tokenizer)
 - [Save Top Level Reddit Comments](https://github.com/wonyoung-jang/top-reddit-comments)
 - [Package Delivery Route Optimization](https://github.com/wonyoung-jang/package-delivery-network)
-
-### C++
-
-- [Student Records System](https://github.com/wonyoung-jang/Student-Record-System)
 
 ### Java, Go, Javascript, HTML, CSS
 
@@ -21,6 +19,15 @@
 - [Vacation Cart Manager](https://github.com/wonyoung-jang/vacation-cart-manager)
 - [Hotel Reservation Manager](https://github.com/wonyoung-jang/Hotel-Reservation-Manager)
 
+### SQL
+
+- [Bagel Corner & Mister Coffee Database Management](https://github.com/wonyoung-jang/bagel-coffee-stores)
+- [DVD Rental Database Revenue Insights](https://github.com/wonyoung-jang/dvd-rental-revenue)
+
+### C++
+
+- [Student Records System](https://github.com/wonyoung-jang/Student-Record-System)
+
 ### AIML
 
 - [CS Career Recommendation Chatbot](https://github.com/wonyoung-jang/cs-career-chatbot)
@@ -28,8 +35,3 @@
 ### Lua
 
 - [Disaster Recovery Robot Simulation](https://github.com/wonyoung-jang/Disaster-Recovery-Robot)
-
-### SQL
-
-- [Bagel Corner & Mister Coffee Database Management](https://github.com/wonyoung-jang/bagel-coffee-stores)
-- [DVD Rental Database Revenue Insights](https://github.com/wonyoung-jang/dvd-rental-revenue)
