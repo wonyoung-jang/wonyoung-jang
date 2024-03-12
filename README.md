@@ -1,6 +1,6 @@
 # Hi, I'm Wonyoung
 
-Check out my personal site here:  [wonyoungjang.org]( wonyoungjang.org/ )
+Check out my personal site here:  [wonyoungjang.org](https://wonyoungjang.org)
 
 ## Projects Overview
 
