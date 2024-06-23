@@ -8,31 +8,30 @@ Welcome to my GitHub profile!
 ## Featured Projects
 
 ### Python
-- [Python Project Crawler](https://github.com/wonyoung-jang/python-project-crawler/tree/main) - Automate project discovery and analysis
-- [FIRST LEGO League Challenge (FLLC) Q-Learning Scheduler](https://github.com/wonyoung-jang/fllc-qlearning-scheduler) - Optimize event scheduling using reinforcement learning
-- [Logseq Markdown Tokenizer](https://github.com/wonyoung-jang/logseq-tokenizer) - Process and analyze Logseq markdown files
-- [Save Top Level Reddit Comments](https://github.com/wonyoung-jang/top-reddit-comments) - Extract and store top Reddit discussions
-- [Package Delivery Route Optimization](https://github.com/wonyoung-jang/package-delivery-network) - Enhance delivery efficiency through route optimization
+- [FLLC Q-learning scheduler](https://github.com/wonyoung-jang/fllc-qlearning-scheduler) - Optimize event scheduling using reinforcement learning
+- [Logseq markdown tokenizer](https://github.com/wonyoung-jang/logseq-tokenizer) - Process and analyze Logseq markdown files
+- [Save top level reddit comments](https://github.com/wonyoung-jang/top-reddit-comments) - Extract and store top Reddit discussions
+- [Package delivery route optimization](https://github.com/wonyoung-jang/package-delivery-network) - Enhance delivery efficiency through route optimization
 
 ### Web Development (Java, Go, JavaScript, HTML, CSS)
-- [WonyoungJang.org - GitHub Pages](https://github.com/wonyoung-jang/wonyoung-jang.github.io) - Personal portfolio and blog
-- [Multiplayer Drawing App](https://github.com/wonyoung-jang/realtime-multiplayer-drawing) - Collaborative real-time drawing platform
-- [Retail Inventory Manager](https://github.com/wonyoung-jang/retail-inventory-manager) - Streamline inventory management for retail businesses
-- [Vacation Cart Manager](https://github.com/wonyoung-jang/vacation-cart-manager) - Simplify vacation planning and booking
-- [Hotel Reservation Manager](https://github.com/wonyoung-jang/Hotel-Reservation-Manager) - Efficient hotel booking system
+- [Wonyoungjang.org - GitHub Pages](https://github.com/wonyoung-jang/wonyoung-jang.github.io) - Personal portfolio and blog
+- [Realtime multiplayer drawing](https://github.com/wonyoung-jang/realtime-multiplayer-drawing) - Collaborative real-time drawing platform
+- [Retail inventory manager](https://github.com/wonyoung-jang/retail-inventory-manager) - Streamline inventory management for retail businesses
+- [Vacation cart manager](https://github.com/wonyoung-jang/vacation-cart-manager) - Simplify vacation planning and booking
+- [Hotel reservation manager](https://github.com/wonyoung-jang/Hotel-Reservation-Manager) - Efficient hotel booking system
 
 ### Database Management (SQL)
-- [Bagel Corner & Mister Coffee Database Management](https://github.com/wonyoung-jang/bagel-coffee-stores) - Optimize operations for food service businesses
-- [DVD Rental Database Revenue Insights](https://github.com/wonyoung-jang/dvd-rental-revenue) - Extract valuable business insights from rental data
+- [Bagel Corner & Mr. Coffee database management](https://github.com/wonyoung-jang/bagel-coffee-stores) - Optimize operations for food service businesses
+- [DVD rental database revenue insights](https://github.com/wonyoung-jang/dvd-rental-revenue) - Extract valuable business insights from rental data
 
 ### C++
-- [Student Records System](https://github.com/wonyoung-jang/Student-Record-System) - Efficient management of student information
+- [Student records system](https://github.com/wonyoung-jang/Student-Record-System) - Efficient management of student information
 
 ### AI/ML
-- [CS Career Recommendation Chatbot](https://github.com/wonyoung-jang/cs-career-chatbot) - AI-powered career guidance for CS students
+- [CS career recommendation chatbot](https://github.com/wonyoung-jang/cs-career-chatbot) - AI-powered career guidance for CS students
 
 ### Lua
-- [Disaster Recovery Robot Simulation](https://github.com/wonyoung-jang/Disaster-Recovery-Robot) - Simulate and optimize disaster response robotics
+- [Disaster recovery robot simulation](https://github.com/wonyoung-jang/Disaster-Recovery-Robot) - Simulate and optimize disaster response robotics
 
 ## Skills
 
