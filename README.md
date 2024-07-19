@@ -8,6 +8,7 @@ Welcome to my GitHub profile!
 ## Featured Projects
 
 ### Python
+- [Vehicle intercept problems solver](https://github.com/wonyoung-jang/vehicle-intercept-gui) - Solver for a drone intercept and a car collision problem, with PySide6
 - [FLLC Q-learning scheduler](https://github.com/wonyoung-jang/fllc-qlearning-scheduler) - Optimize event scheduling using reinforcement learning
 - [Logseq markdown tokenizer](https://github.com/wonyoung-jang/logseq-tokenizer) - Process and analyze Logseq markdown files
 - [Save top level reddit comments](https://github.com/wonyoung-jang/top-reddit-comments) - Extract and store top Reddit discussions
