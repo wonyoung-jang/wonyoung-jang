@@ -16,7 +16,8 @@ Welcome to my GitHub profile!
 - [Package delivery route optimization](https://github.com/wonyoung-jang/package-delivery-network) - Enhance delivery efficiency through route optimization
 
 ### Web Development (Java, Go, JavaScript, HTML, CSS)
-- [Wonyoungjang.org - GitHub Pages](https://github.com/wonyoung-jang/wonyoung-jang.github.io) - Personal portfolio and blog
+- My GitHub Pages site: [wonyoungjang.org](https://wonyoungjang.org)
+- [Hugo PolyRhythmic](https://github.com/wonyoung-jang/hugo-PolyRhythmic) - Hugo theme for Material Design 3
 - [Realtime multiplayer drawing](https://github.com/wonyoung-jang/realtime-multiplayer-drawing) - Collaborative real-time drawing platform
 - [Retail inventory manager](https://github.com/wonyoung-jang/retail-inventory-manager) - Streamline inventory management for retail businesses
 - [Vacation cart manager](https://github.com/wonyoung-jang/vacation-cart-manager) - Simplify vacation planning and booking
