@@ -18,6 +18,7 @@ Welcome to my GitHub profile!
 ### Web Development (Java, Go, JavaScript, HTML, CSS)
 - My GitHub Pages site: [wonyoungjang.org](https://wonyoungjang.org)
 - [Hugo PolyRhythmic](https://github.com/wonyoung-jang/hugo-PolyRhythmic) - Hugo theme for Material Design 3
+- [Hugo PolyRhythmic exampleSite](https://github.com/wonyoung-jang/hugo-PolyRhythmic-demo) - Source for live demo site for PolyRhythmic
 - [Realtime multiplayer drawing](https://github.com/wonyoung-jang/realtime-multiplayer-drawing) - Collaborative real-time drawing platform
 - [Retail inventory manager](https://github.com/wonyoung-jang/retail-inventory-manager) - Streamline inventory management for retail businesses
 - [Vacation cart manager](https://github.com/wonyoung-jang/vacation-cart-manager) - Simplify vacation planning and booking
