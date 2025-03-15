@@ -8,6 +8,7 @@ Welcome to my GitHub profile!
 ## Featured Projects
 
 ### Python
+- [Logseq Analyzer](https://github.com/wonyoung-jang/logseq-analyzer) - Analyzer for markdown Logseq graphs
 - [Vehicle intercept problems solver](https://github.com/wonyoung-jang/vehicle-intercept-gui) - Solver for a drone intercept and a car collision problem, with PySide6
 - [Sitemap scraper](https://github.com/wonyoung-jang/sitemap-scraper) - Get sitemaps of websites as structured markdown data
 - [FLLC Q-learning scheduler](https://github.com/wonyoung-jang/fllc-qlearning-scheduler) - Optimize event scheduling using reinforcement learning
