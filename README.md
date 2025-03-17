@@ -17,6 +17,7 @@ Welcome to my GitHub profile!
 - [Package delivery route optimization](https://github.com/wonyoung-jang/package-delivery-network) - Enhance delivery efficiency through route optimization
 
 ### Web Development (Java, Go, JavaScript, HTML, CSS)
+- [Logseq Insert Random Pages](https://github.com/wonyoung-jang/logseq-insert-random-pages) - Logseq plugin to insert random pages as blocks.
 - [Hugo PolyRhythmic](https://github.com/wonyoung-jang/hugo-PolyRhythmic) - Hugo theme for Material Design 3
 - [Hugo PolyRhythmic exampleSite](https://github.com/wonyoung-jang/hugo-PolyRhythmic-demo) - Source for live demo site for PolyRhythmic
 - [Realtime multiplayer drawing](https://github.com/wonyoung-jang/realtime-multiplayer-drawing) - Collaborative real-time drawing platform
