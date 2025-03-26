@@ -5,6 +5,12 @@
 
 Welcome to my GitHub profile!
 
+## Currently Working On
+- [Logseq Analyzer](https://github.com/wonyoung-jang/logseq-analyzer)
+- [Logseq PolyRhythmic](https://github.com/wonyoung-jang/logseq-polyrhythmic)
+- [Logseq Insert Random Pages](https://github.com/wonyoung-jang/logseq-insert-random-pages)
+- [Hugo PolyRhythmic](https://github.com/wonyoung-jang/hugo-PolyRhythmic)
+
 ## Featured Projects
 
 ### Python
@@ -57,3 +63,7 @@ Welcome to my GitHub profile!
 - Email: contact@wonyoungjang.org
 
 Feel free to explore my projects and reach out if you'd like to collaborate or have any questions!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wonyoung-jang&show_icons=true&theme=dark)
