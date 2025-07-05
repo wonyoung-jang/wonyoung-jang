@@ -17,10 +17,11 @@ Welcome to my GitHub profile!
 - [Logseq Analyzer](https://github.com/wonyoung-jang/logseq-analyzer) - Analyzer for markdown Logseq graphs
 - [Vehicle intercept problems solver](https://github.com/wonyoung-jang/vehicle-intercept-gui) - Solver for a drone intercept and a car collision problem, with PySide6
 - [Sitemap scraper](https://github.com/wonyoung-jang/sitemap-scraper) - Get sitemaps of websites as structured markdown data
-- [FLLC Q-learning scheduler](https://github.com/wonyoung-jang/fllc-qlearning-scheduler) - Optimize event scheduling using reinforcement learning
+- [FLLC Genetic Algorithm Scheduler](https://github.com/wonyoung-jang/fllc-scheduler-ga) - Tournament scheduling with genetic algorithms (NSGA-II)
 - [Logseq markdown tokenizer](https://github.com/wonyoung-jang/logseq-tokenizer) - Process and analyze Logseq markdown files
 - [Save top level reddit comments](https://github.com/wonyoung-jang/top-reddit-comments) - Extract and store top Reddit discussions
 - [Package delivery route optimization](https://github.com/wonyoung-jang/package-delivery-network) - Enhance delivery efficiency through route optimization
+- _(Archived) [FLLC Q-learning scheduler](https://github.com/wonyoung-jang/fllc-qlearning-scheduler) - Optimize event scheduling using reinforcement learning_
 
 ### Web Development (Java, Go, JavaScript, HTML, CSS)
 - [Logseq PolyRhythmic](https://github.com/wonyoung-jang/logseq-polyrhythmic) - Logseq theme based on my PolyRhythmic theme for Hugo.
