@@ -6,6 +6,7 @@
 Welcome to my GitHub profile!
 
 ## Currently Working On
+- [FLLC Genetic Algorithm Scheduler](https://github.com/wonyoung-jang/fllc-scheduler-ga)
 - [Logseq Analyzer](https://github.com/wonyoung-jang/logseq-analyzer)
 - [Logseq PolyRhythmic](https://github.com/wonyoung-jang/logseq-polyrhythmic)
 - [Logseq Insert Random Pages](https://github.com/wonyoung-jang/logseq-insert-random-pages)
