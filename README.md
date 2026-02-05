@@ -6,6 +6,7 @@
 Welcome to my GitHub profile!
 
 ## Currently Working On
+- [File System Pachinko](https://github.com/wonyoung-jang/fspachinko)
 - [FLLC Genetic Algorithm Scheduler](https://github.com/wonyoung-jang/fllc-scheduler-ga)
 - [Logseq Analyzer](https://github.com/wonyoung-jang/logseq-analyzer)
 - [Logseq PolyRhythmic](https://github.com/wonyoung-jang/logseq-polyrhythmic)
@@ -15,6 +16,7 @@ Welcome to my GitHub profile!
 ## Featured Projects
 
 ### Python
+- [File System Pachinko](https://github.com/wonyoung-jang/fspachinko) - Transfer random files from point A to B
 - [Logseq Analyzer](https://github.com/wonyoung-jang/logseq-analyzer) - Analyzer for markdown Logseq graphs
 - [Vehicle intercept problems solver](https://github.com/wonyoung-jang/vehicle-intercept-gui) - Solver for a drone intercept and a car collision problem, with PySide6
 - [Sitemap scraper](https://github.com/wonyoung-jang/sitemap-scraper) - Get sitemaps of websites as structured markdown data
