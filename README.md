@@ -8,7 +8,6 @@ Welcome to my GitHub profile!
 ## Currently Working On
 - [Filesystem Pachinko](https://github.com/wonyoung-jang/fspachinko)
 - [FLLC Genetic Algorithm Scheduler](https://github.com/wonyoung-jang/fllc-scheduler-ga)
-- [Logseq Analyzer](https://github.com/wonyoung-jang/logseq-analyzer)
 - [Logseq PolyRhythmic](https://github.com/wonyoung-jang/logseq-polyrhythmic)
 - [Logseq Insert Random Pages](https://github.com/wonyoung-jang/logseq-insert-random-pages)
 - [Hugo PolyRhythmic](https://github.com/wonyoung-jang/hugo-PolyRhythmic)
